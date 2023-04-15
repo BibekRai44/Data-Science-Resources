@@ -5,3 +5,5 @@ Project pro : https://www.projectpro.io
  
 MachineHack : https://machinehack.com/ 
  Data Science Hackathons and Compititions
+
+Analyticd Vidhya : https://www.analyticsvidhya.com Data Science Job Portal
